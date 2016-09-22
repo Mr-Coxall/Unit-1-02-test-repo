@@ -1,0 +1,33 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{462, 334}, {100, 100}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRTB",
+          "frame" : "{{462, 334}, {100, 100}}",
+          "image_name" : "iob:social_github_outline_256",
+          "class" : "ImageView",
+          "name" : "github_sprite",
+          "uuid" : "84016779-A647-43CA-8F71-246CD6E2B6BD"
+        }
+      }
+    ],
+    "attributes" : {
+      "name" : "",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
